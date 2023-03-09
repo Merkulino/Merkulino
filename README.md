@@ -17,7 +17,11 @@ Aqui estão um pouco das tecnologias em que já trabalhei:
   - Tecnologias de Testes:
     - Jest
     - React Testing Library (RTL)
+### Contato:
 
+Email: Merkulino11@gmail.com
+
+Curriculo: [Linkedin](linkedin.com/in/melqui-brito)
 <!--
 **Merkulino/Merkulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
