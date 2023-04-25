@@ -12,11 +12,12 @@ Aqui estão um pouco das tecnologias em que já trabalhei:
   - Tecnologias Back End:
     - Java
     - C#
-    - Node.js
+    - Node.js, Express
 
   - Tecnologias de Testes:
     - Jest
     - React Testing Library (RTL)
+    - Sinon, Chai
 ### Contato:
 
 Email: Merkulino11@gmail.com
