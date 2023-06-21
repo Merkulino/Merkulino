@@ -5,19 +5,23 @@ Me chamo Melqui Brito, sou um desenvolvedor Front End Junior buscando uma oportu
 Aqui estão um pouco das tecnologias em que já trabalhei:
 
  - Tecnologias Front End:
-    - HTML, CSS, JavaScript
-    - React.js (Redux, Context API e Hooks)
-    - Desenvolvimento Android (Android Studio)
+    - HTML, CSS, JavaScript, Typescript
+    - React (Redux, Context API e Hooks)
+    - Desenvolvimento Android (Android Studio), React Native
     - Angular
+
   - Tecnologias Back End:
     - Java
-    - C#
-    - Node.js, Express
+    - Python
+    - Node, Express
+    - MySQL
+    - Sequelize
 
   - Tecnologias de Testes:
     - Jest
     - React Testing Library (RTL)
-    - Sinon, Chai
+    - Sinon, Mocha, Chai
+
 ### Contato:
 
 Email: Merkulino11@gmail.com
