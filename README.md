@@ -1,6 +1,6 @@
 ### Ola! 
 
-Me chamo Melqui Brito, sou um desenvolvedor Front End Junior buscando uma oportunidade de crescimento no mercado de Tecnologia.
+Me chamo Melqui Brito, sou um desenvolvedor FullStack Junior buscando uma oportunidade de crescimento no mercado de Tecnologia.
 
 Aqui estão um pouco das tecnologias em que já trabalhei:
 
