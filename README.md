@@ -16,11 +16,13 @@ Aqui estão um pouco das tecnologias em que já trabalhei:
     - Node, Express
     - MySQL
     - Sequelize
+    - Spring Boot
 
   - Tecnologias de Testes:
     - Jest
     - React Testing Library (RTL)
     - Sinon, Mocha, Chai
+    - JUnit
 
 ### Contato:
 
